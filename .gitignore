@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Misc
+env/
+
+# Develop
+topImg/
+output/
+explications/
+experiments/
+experiments2/
+perturb/
+experiment_perturb/
+image_dataset/
+
+# For Visual Studio Code
+.vscode/
+
+# Mac
+.DS_Store
